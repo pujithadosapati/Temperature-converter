@@ -10,7 +10,6 @@ Handle user input and input validation.
 Format decimal outputs neatly.
 ## Technologies Used
 Programming Language: Python
-Editor: VS Code / PyCharm
 Concepts: Functions, Variables, Conditions, Input Validation, and Arithmetic Operations.
 ## Features
 Convert Celsius to Fahrenheit.
@@ -23,7 +22,6 @@ Validate physically meaningful temperature values.
 Handle invalid numeric inputs.
 Display results up to two decimal places.
 ## Conversion Formulas
-Conversion	Formula
 Celsius to Fahrenheit	(C × 9/5) + 32
 Fahrenheit to Celsius	(F − 32) × 5/9
 Celsius to Kelvin	C + 273.15
@@ -35,8 +33,7 @@ Step 1: Install Python on your computer.
 Step 2: Download or clone this project.
 Step 3: Open the project folder in VS Code.
 Step 4: Open the terminal.
-Step 5: Run the following command:
-bash
+Step 5: Run the following command:bash
 python temperature_converter.py
 Step 6: Select a conversion option from 1 to 6.
 Step 7: Enter the temperature.
